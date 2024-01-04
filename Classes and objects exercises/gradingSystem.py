@@ -70,3 +70,5 @@ print(a2.nombre)
 print(a2.nota)
 a2.nota = "8"
 print(a2.nota)
+
+print("Hola")
